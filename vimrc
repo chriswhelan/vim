@@ -12,7 +12,6 @@ Plugin 'scrooloose/syntastic'
 Plugin 'godlygeek/tabular'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'derekwyatt/vim-scala'
-Plugin 'rodjek/vim-puppet'
 
 call vundle#end()
 filetype plugin indent on
